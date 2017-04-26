@@ -164,11 +164,16 @@ jiathis: false
 * **jiathis** - jiathis share button at the bottom of article.
 
 
-If you prefer to use disqus, the setting of disqus should be placed at your **root** `_config.yml`:
+If you prefer to use disqus or uyan, the settings should be placed at your **root** `_config.yml`:
 
 ```
 # Disqus
 disqus_shortname:
+```
+
+```
+# uyan
+uyan_uid:
 ```
 
 ## Front-Matter ##
